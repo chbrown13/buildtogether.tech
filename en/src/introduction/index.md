@@ -40,7 +40,8 @@ and ineffective communication.
 so if you only think about the code in your project and not about the people writing it,
 everything will take longer and hurt more than it needs to.
 
-Or maybe this will convince you.
+Why hasn't this problem already been solved?
+Again, the answer is "people".
 The authors of [%b Storey2021 %] asked programmers what social and technical factors matter to them the most,
 then ranked the results.
 The most and least important out of the 40 topics were:
@@ -58,5 +59,30 @@ everyone wants a good manager and a good team culture,
 but they place training in the skills those things need near the bottom of the list.
 And everyone wants to feel they're productive,
 but being taught how to use tools well is dead last among programmers' priorities.
-I don't know how this compares to rankings in other professions,
-but it makes me feel sad about ours.
+
+This book's aim is to introduce you to those skills
+and to convince you that they're worth learning.
+To start,
+here's an overview of the departments in a typical tech company:
+
+| Department         | Also Called | What It Does |
+| ------------------ | ----------- | ------------ |
+| Engineering        | -           | Build, test, and deploy software |
+| Human Resources    | Community   | Hiring, firing, benefits, and staff development |
+| Marketing          | Awareness   | Making people aware of who you're trying to help and how |
+| Product Management | —           | Figure out what problems to solve and what features will solve them |
+| Project Management | —           | Keep track of who's doing what and when it's needed |
+| Sales              | Adoption    | Getting people from "this looks interesting" to "we're using it" |
+| Support            | Success     | Removing roadblocks and providing help |
+
+Another way to look at these roles is to ask what disaster they are responsible for preventing:
+
+| Department         | What Risk It Addresses |
+| ------------------ | ---------------------- |
+| Engineering        | We aren't building things or the things we build don't work |
+| Human Resources    | We don't have the right people to do the work |
+| Marketing          | People don't know we exist or how we can help |
+| Product Management | We're building the wrong thing |
+| Project Management | People aren't working on the right things or aren't working well together |
+| Sales              | It's too hard to *start* using what we build |
+| Support            | It's too hard to *keep* using what we build |
